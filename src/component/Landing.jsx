@@ -30,7 +30,7 @@ function Landing() {
                                 max-[1000px]:h-[4vw]
                                 max-[540px]:h-[6vw]
                                 '>
-                                    <img className='w-[100%]' src='./src/img/img.png' alt='hell'/>
+                                    <img className='w-[100%]' src='./img.png' alt='hell'/>
                                     </motion.div >}
 
 
