@@ -47,7 +47,7 @@ Error generating stack: `+s.message+`
                                 max-[1200px]:h-[4.3vw] \r
                                 max-[1000px]:h-[4vw]\r
                                 max-[540px]:h-[6vw]\r
-                                `,children:x.jsx("img",{className:"w-[100%]",src:"./src/img/img.png",alt:"hell"})}),x.jsx("h1",{className:`  uppercase text-[6.5vw]  leading-[13vh]  tracking-tighter \r
+                                `,children:x.jsx("img",{className:"w-[100%]",src:"./img.png",alt:"logo"})}),x.jsx("h1",{className:`  uppercase text-[6.5vw]  leading-[13vh]  tracking-tighter \r
                                 font=['Founders_Grotesk_X-Cond_Lt'] font-bold\r
                                 max-[450px]:text-[12vw] \r
                                 max-[650px]:leading-[5vh] \r
